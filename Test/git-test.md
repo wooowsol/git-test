@@ -6,7 +6,7 @@
 - git add .
 - git commit -m "first commit"
 
-- git remote add originhttps://github.com/wooowsol/git-test.git
+- git remote add origin 깃헙 레파지토리 주소
 - git push -u origin master
 
 ##
